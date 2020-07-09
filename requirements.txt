@@ -1,0 +1,15 @@
+discord.py
+aiohttp
+websockets
+chardet
+discord
+youtube_dl
+asyncio
+PyNaCl
+Numpy
+mysql-connector-python-rf
+mysql-connector-python
+mysql-connector
+mysql
+mysqlclient
+python-dotenv
